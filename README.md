@@ -1,13 +1,20 @@
 # eSneakers
 
 <h1 align="center">
-    <img src="https://ik.imagekit.io/cpubcba62/logo__2_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674224334500"/>
-    <p>eSneakers Project!🚀💻🎮</p>
+   <p>eSneakers Project!🚀💻🎮</p>
 </h1>
 
 <h1>
-    <img src="https://ik.imagekit.io/cpubcba62/AluraPlus-Readme.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674224207478">
+    <img src="https://ik.imagekit.io/cpubcba62/ladding.page_eSneakers.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674780808206">
 </h1>
+
+<h2>
+    <img src="https://ik.imagekit.io/cpubcba62/colecoes_eSneakers.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674780808300">
+</h2>
+
+<h3>
+    <img src="https://ik.imagekit.io/cpubcba62/feed_eSneakers.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674780808258">
+</h3>
 
 
 ## 📕📚 Sobre
