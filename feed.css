@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar{
+    background: black;
+    width: 100%;
+    height: 200px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+.buscando{
+    text-align: center;
+    padding: 140px;
+}
+
+.procura{
+    font-size: 25px;
+    width: 700px;
+    padding-left: 50px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-family: 'Barlow', sans-serif;
+    text-shadow: 5px 4px rgba(255, 255, 255, 0.29);
+}
+.buscar22{
+    width: 30px;
+    position: relative;
+    top: 6px;
+    left: 40px;
+}
+.buscar{
+    width: 100px;
+    height: 30px;
+    font-size: 17px;
+    border-radius: 50px;
+    font-weight: bold;
+    font-family: 'Barlow', sans-serif;
+    text-transform: uppercase;
+    
+}
+
+.buscar:hover{
+    background-color: rgba(253, 253, 253, 0.596);
+}
+button{
+    position: relative;
+    left: 15px;
+    bottom: 2px;
+}
+.logo{
+    position: absolute;
+    right: 90%;
+    top: 20px;
+    padding: 30px;
+    background-color:rgba(86, 81, 79, 0.29);
+    border: 1px solid white;
+    border-radius: 20%;
+    box-shadow: 2px 2px 10px white;
+}
+
+.inicio{
+    position: absolute;
+    right: 82%;
+    top: 150px;
+    font-family: 'Barlow', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    
+}
+
+.inicio2{
+    position: absolute;
+    right: 74%;
+    top: 150px;
+    font-family: 'Barlow', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    
+}
+.feed{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.feed img{
+   max-width: 30%;
+   border-radius: 30px;
+   padding-top: 20px;
+}
+
+.text{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    padding: 10px 0 2px;
+}
+
+main img:hover{
+    width: 540px;
+}
+
+@media only screen and (max-width: 400px){
+    .logo{
+        width: 50px;
+        position: absolute;
+        left: 140px;
+    }
+
+}

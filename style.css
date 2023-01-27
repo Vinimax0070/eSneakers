@@ -1,0 +1,175 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: linear-gradient(black,rgb(51, 50, 50))
+}
+
+
+img{
+   padding-right: 40px;
+}
+
+.frase{
+    position: absolute;
+    width: 122px;
+    height: 980px;
+    bottom: 5px;
+}
+
+.frase-lateral{
+    position: absolute;
+    width: 764px;
+    height: 73px;
+    
+    right:1420px;
+    margin-bottom: 300px;
+    font-family: 'Baloo Tamma 2';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 61px;
+    letter-spacing: 0.75em;
+    
+    color: #F4B687;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: rotate(90deg);
+}
+.logo{
+
+    padding-left: 40px;
+    padding-bottom: 20px;
+    background-color:rgba(86, 81, 79, 0.29);
+    padding-top:30px ;
+    border: 1px solid white;
+    border-radius: 20%;
+    box-shadow: 2px 2px 8px white;
+}
+.caixa{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+    text-shadow: 2px 2px 6px white;
+}
+
+nav li{
+    display: inline;
+    font-family: 'Barlow', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    margin: 0 0 0 45px;
+
+}
+nav a{
+    font-family: 'Barlow', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+nav a:hover{
+    color: rgb(82, 128, 214);
+}
+
+nav a:active{
+    color: rgb(27, 55, 105);
+}
+
+
+.caixa1{
+    display: flex;
+    align-items: center;
+
+
+}
+
+.titulos{
+    color: white;
+    padding-left: 140px;
+    text-align: center;
+    margin-bottom: 210px;
+}
+.titulos h2{
+    font-family: 'Barlow', sans-serif;
+    font-size: 80px;
+    font-weight: bold;
+    text-shadow: 5px 4px rgba(136, 123, 119, 0.29);
+    margin-bottom: 40px;
+}
+
+.titulos p{
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+.tenis{
+ width: 50%;
+}
+
+.btn{
+    font-family: 'Barlow', sans-serif;
+    background: #453429;
+    color: white;
+    padding: 20px;
+    border-radius: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 2px 2px 8px white;
+    text-transform: uppercase;
+}
+
+.btn:hover{
+    background-color: #2c231d;
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.lista-rodape{
+    padding: 20px;
+    
+}
+
+.lista-rodape a{
+    color: white;
+}
+
+.lista-rodape a:hover{
+    color: rgb(82, 128, 214);
+}
+
+.lista-rodape a:active{
+    color: rgb(119, 202, 250);
+}
+.lista-rodape li{
+    display: inline;
+    margin: 10px;
+   
+}
+
+.rodape{
+    padding: 20px;
+    font-size: 12px;
+    color: #C0C0C0;
+}
+
+
+
